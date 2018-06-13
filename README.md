@@ -1,2 +1,3 @@
 # hello-world
-first
+Hello humans!
+I'm a Robot.
