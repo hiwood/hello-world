@@ -1,0 +1,11 @@
+    public String toString() {
+        return (isInterface() ? "interface " : (isPrimitive() ? "" : "class "))
+            + getName();
+    }
+    
+
+Primitive原始数据 基本数据类型
+modifier 调节器 修饰语
+parameter 参数
+canonical 最简洁的
+elide 省略
